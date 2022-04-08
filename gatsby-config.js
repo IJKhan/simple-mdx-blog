@@ -53,7 +53,9 @@ module.exports = {
         ],
         display: 'swap'
       }
-    }
+    },
+    //for CSS and styled components
+    `gatsby-plugin-styled-components`
 
   ],
 }
