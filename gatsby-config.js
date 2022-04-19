@@ -1,5 +1,7 @@
 module.exports = {
   plugins: [
+//graphqlí
+    `gatsby-plugin-graphql-config`,
     //plugins for handling subfolders in the src folder
     {
       resolve: `gatsby-source-filesystem`,
